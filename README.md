@@ -1,3 +1,5 @@
+The purpose of this project was to, using the A* algorithm, find the optimal path for a hypothetical delivery drone to take. The user inputs a starting location and a destination and the program gives the shortest path based on the weights(which in this case is calculated using a great circle distance calculation between the coordinates of each node's corresponding real world location.  
+
 # Projekt 1 - Ruttsökning
 
 Vi märkte inte att det fanns en färdig repository så vi hamnade kopiera koden över från den vi började på.
